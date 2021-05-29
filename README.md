@@ -7,9 +7,9 @@ NCB (New Central Bank, Europe) having presence all across the world.
 They are basically into Core & Retail Banking Features. 
 They have thousands of Customers, and most of the Customers are widely using **NCB's Credit Card (Master and Visa).**
 
-On a Daily Basis Millions of Credit Card Transactions is being taken place.
-They main intent of NCB is to identify the fraudulent Transactions and keep close eye on 
-Suspicious Transactions on a daily basis
+On a Daily Basis Millions of Credit Card Transactions are taking place.
+The main intent of NCB is to identify the fraudulent Transactions and keep close eye on 
+Suspicious Transactions on daily basis
 
 
 Goal:Generate excel file having 3 sheets which contains following information
