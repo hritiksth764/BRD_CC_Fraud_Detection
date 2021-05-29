@@ -47,5 +47,10 @@ Note: This process should be automatic and daily job needs to be executed on a g
  <img width="725" alt="TR4" src="https://user-images.githubusercontent.com/42655809/120060767-3c492580-c077-11eb-94d2-b443ce398863.png"> 
 
 ## Usage
-.confg
-
+```
+```
+## TO-DO
+- [x] ~~Processed csv into db and generated output to be mailed.~~
+- [x] ~~Added option to mail file.~~
+- [ ] Add config file for input parameters such as folderpaths,db details,scheduled_time .
+- [ ] Add to system scheduler for automatic execution.
