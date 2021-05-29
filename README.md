@@ -41,7 +41,7 @@ Note: This process should be automatic and daily job needs to be executed on a g
 
 ## Transformation Logic
 
- ![TR](https://user-images.githubusercontent.com/42655809/120060904-09ebf800-c078-11eb-8e74-5c6b7a23b390.png)
+ <img width="658" alt="TR" src="https://user-images.githubusercontent.com/42655809/120060977-8d0d4e00-c078-11eb-8ba3-8ff5a7ace822.png">
  <img width="491" alt="TR2" src="https://user-images.githubusercontent.com/42655809/120060743-1d4a9380-c077-11eb-9d1c-94255a9d976f.png">
  <img width="672" alt="TR3" src="https://user-images.githubusercontent.com/42655809/120060779-4cf99b80-c077-11eb-8e7a-5e2b9e8027e7.png">
  <img width="725" alt="TR4" src="https://user-images.githubusercontent.com/42655809/120060767-3c492580-c077-11eb-94d2-b443ce398863.png"> 
