@@ -50,7 +50,7 @@ Note: This process should be automatic and daily job needs to be executed on a g
 ```
 ```
 ## TO-DO
-- [x] Processed csv into db and generated output to be mailed.
-- [x] Added option to mail file.
+- [x] ~~Processed csv into db and generated output to be mailed.~~
+- [x] ~~Added option to mail file.~~
 - [ ] Add config file for input parameters such as folderpaths,db details,scheduled_time .
 - [ ] Add to system scheduler for automatic execution.
